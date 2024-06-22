@@ -30,7 +30,7 @@ const Header = () => {
         <div className={styles.backgroundImage}>
             <Navbar className={styles.navbar}>
                 <Container>
-                    <h2 className={styles.BrandColor}>Avanthika</h2>
+                    <h2 className={styles.BrandColor}>Avanthika Chennamadhavuni</h2>
                 </Container>
             </Navbar>
             <div className={styles.overViewText}>
